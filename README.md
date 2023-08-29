@@ -1,3 +1,8 @@
+Esse é um aplicativo de tarefas, que com ele você consegue colocar as suas tarefas do dia-a-dia
+
+Ele é um app básico, mas trabalha com varias funções do mercado atual. Nele tem TypeScript, ContextAPI(Async, hook personalizado, função de adicionar e remover a tarefa).
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
